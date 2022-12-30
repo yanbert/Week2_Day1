@@ -13,6 +13,12 @@ const myWatchedSeries = ["black mirror", "money heist", "the big bang theory"];
 
 let numberSeries = myWatchedSeries.length;
 
+/******************************************************
+Correcteur: Yannick GOUGUIA
+
+Revoir cet exercice, mauvaise reponse
+
+*****************************************************/
 let myWatchedSeriesSentence = ["black mirror", "money heist","the big bang theory"];
 
 console.log(`I watched ${numberSeries} series : ${myWatchedSeries[0]}, ${myWatchedSeries[1]} and ${myWatchedSeries[2]}`);
@@ -20,6 +26,11 @@ console.log(`I watched ${myWatchedSeriesSentence.length} series : ${myWatchedSer
 
 /* Part II */
 
+/******************************************************
+Correcteur: Yannick GOUGUIA
+
+Revoir cet exercice
+*****************************************************/
 myWatchedSeries[2] = "freinds";
 myWatchedSeriesSentence[2] = "freinds";
 
@@ -35,6 +46,12 @@ console.log(`I watched ${numberSeries} series : ${myWatchedSeries[0]}, ${myWatch
 
 // Exercice 3
 
+/******************************************************
+Correcteur: Yannick GOUGUIA
+
+Revoir cet exercice, je n'ai pas compris la reponse
+
+*****************************************************/
 let celsiusTemperature = 32;
 
 let fahrenheitTemperature = (9/5) * celsiusTemperature + 32;
